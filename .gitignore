@@ -16,7 +16,7 @@ venv/
 *.xlsx
 *.npy
 *.h5
-
+*.pdf
 # Logs
 *.log
 
